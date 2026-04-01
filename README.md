@@ -1,2 +1,2 @@
 # faltuCoder.com
-An PHP Project
+PHP Project
